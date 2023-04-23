@@ -10,7 +10,7 @@ Click [here](https://BenjaminJawer.github.io/BenjaminJawer_Portfolio/BenjaminJaw
 
 ## Projects
 
-The following project looks at some tortoise migration patterns. This migration had already been studied by a group of researchers, and you can read their paper [here](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecy.2658). To look specifically at the data, just click [here](https://www.datarepository.movebank.org/handle/10255/move.834).
+The following project looks at some tortoise migration patterns. This migration had already been studied by a group of researchers, and you can read their paper [here](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecy.2658). To look specifically at the data, just click [here](https://www.datarepository.movebank.org/handle/10255/move.834) and you can find a csv toward the bottom of the page.
 I looked specifically at the tortoises named Christian and Alison, but there are several other tortoises to look at.
 
 [Here](https://BenjaminJawer.github.io/BenjaminJawer_Portfolio/Project_2.html) is an html version of the project.
